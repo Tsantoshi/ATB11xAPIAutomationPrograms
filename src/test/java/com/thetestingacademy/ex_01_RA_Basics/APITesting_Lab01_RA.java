@@ -1,5 +1,4 @@
 package com.thetestingacademy.ex_01_RA_Basics;
-
 import io.restassured.RestAssured;
 
 public class APITesting_Lab01_RA {
